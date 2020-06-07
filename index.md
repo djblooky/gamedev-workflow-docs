@@ -8,4 +8,4 @@ permalink: /
 
 # Test title
 
-[Getting Started]["/docs/getting-started.md"]
+Welcome to the docs.
