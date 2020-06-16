@@ -6,6 +6,6 @@ description: "Home Page"
 permalink: /
 ---
 
-# Test title
+# Getting Started
 
-Welcome to the docs.
+A series of tutorial documents that will walk beginners through good game development workflow habits.
