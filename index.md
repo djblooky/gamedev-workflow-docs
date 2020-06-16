@@ -2,10 +2,20 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Home Page"
+description: "Getting Started Page"
 permalink: /
 ---
 
-# Getting Started
+# Welcome!
 
-A series of tutorial documents that will walk beginners through good game development workflow habits.
+Insert brief description of documents and their usefulness
+
+# Getting Started - Installation & Setup
+
+## Installing Visual Studio 
+
+## Installing Unity 3D with Unity Hub
+
+## GitHub Setup
+
+
