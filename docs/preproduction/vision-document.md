@@ -42,7 +42,7 @@ This is a basic overview description of the core gameplay elements and key info.
 
 Here's an example quote from Diablo I:
 
-> Diablo is a role playing game wherein a player creates a single character and guides him through a dungeon in an attempt to find and destroy 'Diablo', the devil himself. All the action takes place in an isometric, three-quarter perspective, with diamond-shaped, 'square' floor spaces (see diagram).
+> *Diablo is a role playing game wherein a player creates a single character and guides him through a dungeon in an attempt to find and destroy 'Diablo', the devil himself. All the action takes place in an isometric, three-quarter perspective, with diamond-shaped, 'square' floor spaces (see diagram).*
 
 [Full Document]("http://www.graybeardgames.com/download/diablo_pitch.pdf")
 
