@@ -42,7 +42,7 @@ Also note that games of particular platforms or genres may require additional sp
 
 This is a basic overview description of the core gameplay elements and key info.
 
-Here's an example quote from Diablo I:
+Diablo I (famous for its looting system) has a good example of this kind of overview:
 
 > *Diablo is a role playing game wherein a player creates a single character and guides him through a dungeon in an attempt to find and destroy 'Diablo', the devil himself. All the action takes place in an isometric, three-quarter perspective, with diamond-shaped, 'square' floor spaces (see diagram).*
 
@@ -64,3 +64,8 @@ This section should describe how to play your game and what the player will be d
 
  Examples:
  [Example 1]({{ site.baseurl }}{% link assets/vision-docs/Vision_doc.pdf %})
+
+### Additional Sections
+* Setting and Narrative (don't go into too much detail here, this is just an overview)
+* In-Game Economy
+* Art & Sound Direction
