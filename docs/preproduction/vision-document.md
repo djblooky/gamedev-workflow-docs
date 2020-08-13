@@ -15,7 +15,7 @@ The vision document (sometimes called the pitch document) is essentially a conde
 
 The style and structure you choose to outline your document with matters less than the actual information, because format tends to vary from one developer/publisher to the next. Below are some examples of vision documents and how you may want to organize them:
 
-[Example 1]({{ site.baseurl }}{% link assets/vision-docs/on_design_documents.pdf %}) | [Example 2]() | [Example 3]()
+[Example 1]() | [Example 2]() | [Example 3]()
 
 ## The Information to Outline
 
@@ -63,7 +63,7 @@ This section should describe how to play your game and what the player will be d
  Imagine a walkthrough you'd read online when you get stuck in a game. It tells you the critical path, explains the moment to moment gameplay. Maybe even has some light maps or other visual aids. This forces the designer to really visualize how the game works in concrete terms. Do a walkthrough for a potential puzzle or typical section of gameplay.
 
  Examples:
- [Example 1]({{ site.baseurl }}{% link assets/vision-docs/Vision_doc.pdf %})
+ [Example 1]()
 
 ### Additional Sections
 * Setting and Narrative (don't go into too much detail here, this is just an overview)
