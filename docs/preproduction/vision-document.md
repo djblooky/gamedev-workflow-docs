@@ -9,7 +9,7 @@ parent: Preproduction
 
 # The Vision Document
 
-The vision document (sometimes called the pitch document) is essentially a condensed and more to-the-point version of a game design document. It's exactly what it sounds like, it serves to clarify the *vision* of your game to the reader so that they are able to understand the most important aspects. This document can be an key part of getting people to invest in your game that goes hand in hand with [the pitch]({{ site.baseurl }}{% link docs/pitch.md %}), whether it be investing with money, time, or valuable insight.
+The vision document (sometimes called the pitch document) is essentially a condensed and more to-the-point version of a game design document. It's exactly what it sounds like, it serves to clarify the *vision* of your game to the reader so that they are able to quickly understand the most important aspects. This document can be an key part of getting people to invest in your game that goes hand in hand with [the pitch]({{ site.baseurl }}{% link docs/pitch.md %}), whether it be investing with money, time, or valuable insight.
 
 ## Document Structure
 
@@ -64,10 +64,3 @@ This section should describe how to play your game and what the player will be d
 
  Examples:
  [Example 1]({{ site.baseurl }}{% link assets/vision-docs/Vision_doc.pdf %})
-
-### Additional Sections
-* Setting and Narrative
-* In-Game Economy
-* Art & Sound Direction
-* Budget Breakdown
-* Timeline
