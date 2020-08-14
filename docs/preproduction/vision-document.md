@@ -62,8 +62,7 @@ This section should describe how to play your game and what the player will be d
 
  Imagine a walkthrough you'd read online when you get stuck in a game. It tells you the critical path, explains the moment to moment gameplay. Maybe even has some light maps or other visual aids. This forces the designer to really visualize how the game works in concrete terms. Do a walkthrough for a potential puzzle or typical section of gameplay.
 
- Examples:
- [Example 1]()
+ [View Example]()
 
 ### Additional Sections
 * Setting and Narrative (don't go into too much detail here, this is just an overview)
