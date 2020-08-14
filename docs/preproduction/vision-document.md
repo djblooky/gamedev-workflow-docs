@@ -9,13 +9,13 @@ parent: Preproduction
 
 # The Vision Document
 
-The vision document (sometimes called the pitch document) is essentially a condensed and more to-the-point version of a game design document. It's exactly what it sounds like, it serves to clarify the *vision* of your game to the reader so that they are able to quickly understand the most important aspects. This document can be an key part of getting people to invest in your game that goes hand in hand with [the pitch](), whether it be investing with money, time, or valuable insight.
+The vision document (sometimes called the pitch document) is essentially a condensed and more to-the-point version of a game design document. It's exactly what it sounds like, it serves to clarify the *vision* of your game to the reader so that they are able to quickly understand the most important aspects. This document can be an key part of getting people to invest in your game that goes hand in hand with [the pitch](https://charlie.games/gamedev-workflow-docs/the-pitch), whether it be investing with money, time, or valuable insight.
 
 ## Document Structure
 
-The style and structure you choose to outline your document with matters less than the actual information, because format tends to vary from one developer/publisher to the next. Below are some examples of vision documents and how you may want to organize them:
+The style and structure you choose to outline your document with matters less than the actual information, because format tends to vary from one developer/publisher to the next. Below is an example of vision documents and how you may want to organize them:
 
-[Example 1]() | [Example 2]() | [Example 3]()
+[View Example](assets/vision-docs/on_design_documents.pdf)
 
 ## The Information to Outline
 
@@ -62,7 +62,7 @@ This section should describe how to play your game and what the player will be d
 
  Imagine a walkthrough you'd read online when you get stuck in a game. It tells you the critical path, explains the moment to moment gameplay. Maybe even has some light maps or other visual aids. This forces the designer to really visualize how the game works in concrete terms. Do a walkthrough for a potential puzzle or typical section of gameplay.
 
- [View Example]()
+ [View Example](assets/vision-docs/Vision_doc.pdf)
 
 ### Additional Sections
 * Setting and Narrative (don't go into too much detail here, this is just an overview)
