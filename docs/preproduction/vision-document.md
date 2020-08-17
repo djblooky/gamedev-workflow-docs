@@ -13,9 +13,11 @@ The vision document (sometimes called the pitch document) is essentially a conde
 
 ## Document Structure
 
-The style and structure you choose to outline your document with matters less than the actual information, because format tends to vary from one developer/publisher to the next. Below is an example of vision documents and how you may want to organize them:
+The style and structure you choose to outline your document with matters less than the actual information, because format tends to vary from one developer/publisher to the next. Below are some examples of vision documents and how you may want to organize them:
 
-[View Example](assets/vision-docs/on_design_documents.pdf)
+[View Example 1](https://docs.google.com/document/d/1R5BBAkrdQgznTabOWTxED9r_h4BiCTehHPOkffciY1s/edit)
+[View Example 2](https://docs.google.com/document/d/1KrX9cLMJzFcuxyMA1KvRp6IIiIvQdhTEqu2QVQqmaNE/edit)
+[View Example 3](https://docs.google.com/document/d/1c27KTIaalTrS3dhT9-maifDvAfkPcc-LMJ6Y1iPYqFg/edit)
 
 ## The Information to Outline
 
@@ -62,7 +64,7 @@ This section should describe how to play your game and what the player will be d
 
  Imagine a walkthrough you'd read online when you get stuck in a game. It tells you the critical path, explains the moment to moment gameplay. Maybe even has some light maps or other visual aids. This forces the designer to really visualize how the game works in concrete terms. Do a walkthrough for a potential puzzle or typical section of gameplay.
 
- [View Example](assets/vision-docs/Vision_doc.pdf)
+ [View Example](https://docs.google.com/document/d/1s0ialsa3MrJpeQ-h-RtuYZK3oWtLE5SUok1d0oRt9tM/edit)
 
 ### Additional Sections
 * Setting and Narrative (don't go into too much detail here, this is just an overview)
