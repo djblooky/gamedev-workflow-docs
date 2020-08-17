@@ -62,9 +62,12 @@ This section should describe how to play your game and what the player will be d
 
  Imagine a walkthrough you'd read online when you get stuck in a game. It tells you the critical path, explains the moment to moment gameplay. Maybe even has some light maps or other visual aids. This forces the designer to really visualize how the game works in concrete terms. Do a walkthrough for a potential puzzle or typical section of gameplay.
 
- [View Example](https://docs.google.com/document/d/1s0ialsa3MrJpeQ-h-RtuYZK3oWtLE5SUok1d0oRt9tM/edit)
+ [Example 1](https://www.ign.com/wikis/the-legend-of-zelda-breath-of-the-wild/Follow_the_Sheikah_Slate#Find_the_Resurrection_Tower) | [Example 2](https://github.com/dantogno/fancy-footwork/wiki/Gameplay-Layout-%231) | [Example 3](https://github.com/dantogno/tp/wiki/Gameplay-Walkthrough)
 
 ### Additional Sections
 * Setting and Narrative (don't go into too much detail here, this is just an overview)
 * In-Game Economy
 * Art & Sound Direction
+
+### Other Resources
+[On Design Documents](https://docs.google.com/document/d/1s0ialsa3MrJpeQ-h-RtuYZK3oWtLE5SUok1d0oRt9tM/edit)
