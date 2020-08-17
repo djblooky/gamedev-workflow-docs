@@ -15,9 +15,7 @@ The vision document (sometimes called the pitch document) is essentially a conde
 
 The style and structure you choose to outline your document with matters less than the actual information, because format tends to vary from one developer/publisher to the next. Below are some examples of vision documents and how you may want to organize them:
 
-[View Example 1](https://docs.google.com/document/d/1R5BBAkrdQgznTabOWTxED9r_h4BiCTehHPOkffciY1s/edit)
-[View Example 2](https://docs.google.com/document/d/1KrX9cLMJzFcuxyMA1KvRp6IIiIvQdhTEqu2QVQqmaNE/edit)
-[View Example 3](https://docs.google.com/document/d/1c27KTIaalTrS3dhT9-maifDvAfkPcc-LMJ6Y1iPYqFg/edit)
+[Example 1](https://docs.google.com/document/d/1R5BBAkrdQgznTabOWTxED9r_h4BiCTehHPOkffciY1s/edit) | [Example 2](https://docs.google.com/document/d/1KrX9cLMJzFcuxyMA1KvRp6IIiIvQdhTEqu2QVQqmaNE/edit) | [Example 3](https://docs.google.com/document/d/1c27KTIaalTrS3dhT9-maifDvAfkPcc-LMJ6Y1iPYqFg/edit)
 
 ## The Information to Outline
 
