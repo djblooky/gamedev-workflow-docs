@@ -72,4 +72,4 @@ Here are some last sections you might also want to include:
 * Art & Sound Direction
 
 ### Other Resources
-[On Design Documents](https://docs.google.com/document/d/1s0ialsa3MrJpeQ-h-RtuYZK3oWtLE5SUok1d0oRt9tM/edit)
+[On Design Documents](https://docs.google.com/document/d/1KrX9cLMJzFcuxyMA1KvRp6IIiIvQdhTEqu2QVQqmaNE/edit#)
